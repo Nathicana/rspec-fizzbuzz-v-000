@@ -1,2 +1,2 @@
-def fizzbuzz(x)
+def 'fizzbuzz'(x)
 end
