@@ -3,3 +3,4 @@ def fizzbuzz(x)
     puts "Fizz"
 
 end
+end
